@@ -1,7 +1,8 @@
 ---
 title: "simple_2_layer_network"
-author: "Ben Stenhaug"
-output: html_document
+output:
+   github_document:
+      toc: true
 ---
 
 ```{r setup, include=FALSE}
@@ -32,7 +33,7 @@ Zi — (neurons in layer i * observations)
 
 Let's implement a 2 x 4 x 1 NN: 
 
-![](images/2_layer_network.png)
+![copyright coursera](images/2_layer_network.png)
 
 What each of the activation functions looks like:
 
