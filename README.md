@@ -1,0 +1,3 @@
+# CS 230 — Deep Learning
+
+I am taking CS 230 deep learning at Stanford this quarter. Much of the course involves python notebooks where we are asked to fill in code. However, I find that by just filling in the blanks, I don't learn the full concepts as well as I would like. Here I am implementing basic deep learning examples in R as an additional exercise to be sure I'm truly mastering the material.
